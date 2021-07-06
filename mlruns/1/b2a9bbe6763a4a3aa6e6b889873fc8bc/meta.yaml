@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/b2a9bbe6763a4a3aa6e6b889873fc8bc/artifacts
+end_time: 1625494578815
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b2a9bbe6763a4a3aa6e6b889873fc8bc
+run_uuid: b2a9bbe6763a4a3aa6e6b889873fc8bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625494578561
+status: 3
+tags: []
+user_id: prathod
